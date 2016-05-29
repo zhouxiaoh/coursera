@@ -1,0 +1,80 @@
+/** HEADER **/
+#header-nav {
+  background-color: #008080;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand h1 { 
+  font-family: 'Lora', serif;
+  color: #F0FFFF;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#nav-list {
+  color: #ffffff;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: #20B2AA;
+  font-size: 1.3em;
+}
+
+#nav-list li:hover {
+  background: #AFEEEE;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #ffffff;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+hr {
+  margin: 0px;
+}
+/* END HEADER */
+
+* {
+  box-sizing: border-box;
+}
+
+h1{
+  font-size: 1.75em;
+  color: #008080;
+  margin-top: 10px;
+}
+
+h2 {
+  font-size: 1.25em;
+  text-align: center;
+  line-height: 40px;
+  color: white;
+  margin: 5px;
+  color: #2F4F4F;
+}
+
+.section {
+  background-color: #c7c7c7;
+  border: 1px solid black;
+  min-height: 170px;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  position: relative;
+  height: 1000px
+}
+
+p{
+  margin: 0px 10px 10px 10px ;
+}
+
+.container {
+  margin-top: 0px;
+}
